@@ -4,7 +4,7 @@
 3. Click on "Normal" in the left sidebar
 4. Click on Insert->Module
 5. Double-click the new module to open the code window
-6. Paste the macro in the code window
+6. Paste the macro 'aristeia.bas' in the code window
 7. Ctrl+S to save (Command+S on Mac)
 8. Close the VBA wiindow.
 9. Paste AI-generated contention with style tags into Word. Make sure the text you just pasted is highlighted
